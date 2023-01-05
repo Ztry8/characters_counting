@@ -1,4 +1,4 @@
-# characters_counting
+# characters_counter
 
 ## Use
 ### After building the executable file, call it from cmd/terminal with two arguments. The first argument is the path of the source file and the second is the character for the count
