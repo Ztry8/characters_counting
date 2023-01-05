@@ -7,3 +7,6 @@
 
 ## Releases
 ### Now you can download the archive with bash-installer the programm.
+
+## Future plans
+### 1. implement word count
